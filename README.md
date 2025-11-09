@@ -18,7 +18,7 @@ This project is a simple Python script that generates and visualizes the Mandelb
 
 Install dependencies with:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
